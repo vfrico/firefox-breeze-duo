@@ -2,7 +2,7 @@
     "manifest_version": 2,
 
     "name": "Breeze Duo",
-    "description": "(firefox >= 60.0) Better graphical integration with KDE plasma breeze dark. Derived from Breeze Dark. Original idea from: https://addons.mozilla.org/en-US/firefox/addon/breeze-dark-theme/",
+    "description": "Web Extension to improve Firefox look in KDE With Breeze theme",
     "version": "1.1",
 
     "icons": {
