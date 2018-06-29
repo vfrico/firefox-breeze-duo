@@ -1,18 +1,25 @@
+var breeze_white_background = "#eff0f1";
+var breeze_white_text = "#fcfcfc";
+var breeze_black_text = "#232627";
+var breeze_blue_resalt = "#3daee9";
+var breeze_black_background = "#31363b";
+
 var theme = {
     colors: {
-        accentcolor: "#31363b",
-        textcolor: "#ffffff",
+        accentcolor: breeze_black_background,
+        textcolor: breeze_white_text,
 
-        toolbar: "#f1f3f7",
-        tab_line: "#2478c8",
-        toolbar_text: "#31363b",
-        toolbar_bottom_separator: "#a7c6e3",
+        toolbar: breeze_white_background,
+        toolbar_text: breeze_black_text,
+        tab_line: breeze_blue_resalt,
+        toolbar_text: breeze_black_text,
+        toolbar_bottom_separator: breeze_blue_resalt,
 
-        toolbar_field: "#e9ecf1",
-        toolbar_field_text: "#31363b",
+        toolbar_field: breeze_white_text,
+        toolbar_field_text: breeze_black_text,
 
-        popup: "#f1f3f7",
-        popup_text: "#31363b"
+        popup: breeze_white_background,
+        popup_text: breeze_black_text
     }
 };
 

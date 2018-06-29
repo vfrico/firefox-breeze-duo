@@ -10,6 +10,8 @@ Download this repo and run with [mozilla/web-ext](https://github.com/mozilla/web
 
 The list of available properties are available on [MDN](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json/theme)
 
+All the color configuration are only [supported on Firefox 60+](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json/theme#Colors)
+
 ## License and credit attribution
 Derived from [Breeze-Dark](https://addons.mozilla.org/en-US/firefox/addon/breeze-dark-theme/). Original idea from [daiSkeul](https://addons.mozilla.org/en-US/firefox/user/daiSKeul/). Published using GPLv3.
 
