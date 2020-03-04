@@ -6,6 +6,7 @@ var breeze_black_background = "#31363b";
 
 var theme = {
     colors: {
+        frame: breeze_black_background,
         accentcolor: breeze_black_background,
         textcolor: breeze_white_text,
 
@@ -17,6 +18,7 @@ var theme = {
 
         toolbar_field: breeze_white_text,
         toolbar_field_text: breeze_black_text,
+        tab_background_text: breeze_white_text,
 
         popup: breeze_white_background,
         popup_text: breeze_black_text
