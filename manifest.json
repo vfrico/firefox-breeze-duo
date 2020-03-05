@@ -3,7 +3,7 @@
 
     "name": "Breeze Duo",
     "description": "Web Extension to improve Firefox look in KDE With Breeze theme",
-    "version": "1.3",
+    "version": "1.5",
 
     "icons": {
         "150":"kde-128x128.png"
